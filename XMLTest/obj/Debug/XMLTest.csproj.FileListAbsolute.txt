@@ -1,0 +1,6 @@
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\XMLTest\XMLTest\bin\Debug\XMLTest.exe.config
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\XMLTest\XMLTest\bin\Debug\XMLTest.exe
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\XMLTest\XMLTest\bin\Debug\XMLTest.pdb
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.csprojResolveAssemblyReference.cache
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.exe
+c:\users\andrei_palcheuski@epam.com\documents\visual studio 2012\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.pdb
